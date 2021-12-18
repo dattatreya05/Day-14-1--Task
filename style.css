@@ -1,0 +1,59 @@
+/** @format */
+* {
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+/* span class asterisk */
+.asterisk{
+    color:red;
+}
+
+/* label */
+label[for="lname"]{
+  margin-left:8.5rem;
+}
+
+.name2{
+  text-align: left;
+}
+
+/* div class experience */
+.checked{
+  color:orange;
+}
+
+/* span */
+span{
+  font-weight: bold;
+}
+
+/* table */
+input[type="radio"]{
+  align-content: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 4px;
+  border-collapse: collapse;
+  width: 20%;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+article{
+  border: 2px solid black;
+  width: 100%;
+}
