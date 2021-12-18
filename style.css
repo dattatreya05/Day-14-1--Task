@@ -19,6 +19,10 @@ label[for="lname"]{
   text-align: left;
 }
 
+input[type= "email"]{
+  width:22%;
+}
+
 /* div class experience */
 .checked{
   color:orange;
